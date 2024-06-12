@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+env/
+venv/
+.venv/
+*.log
+*.csv
+*.dat
+.*
+.DS_Store  # for macOS
+Thumbs.db  # for Windows
